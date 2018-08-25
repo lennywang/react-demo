@@ -1,0 +1,22 @@
+{
+  "name": "react-webpack",
+  "version": "1.0.0",
+  "description": "使用webpack搭建react项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lennywang/react-demo.git"
+  },
+  "author": "wll",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lennywang/react-demo/issues"
+  },
+  "homepage": "https://github.com/lennywang/react-demo#readme",
+  "devDependencies": {
+    "webpack": "^4.17.1"
+  }
+}
